@@ -1,0 +1,7 @@
+C:\Users\copag\source\repos\propriedadeDistributiva\propriedadeDistributiva\bin\Debug\propriedadeDistributiva.exe.config
+C:\Users\copag\source\repos\propriedadeDistributiva\propriedadeDistributiva\bin\Debug\propriedadeDistributiva.exe
+C:\Users\copag\source\repos\propriedadeDistributiva\propriedadeDistributiva\bin\Debug\propriedadeDistributiva.pdb
+C:\Users\copag\source\repos\propriedadeDistributiva\propriedadeDistributiva\obj\Debug\propriedadeDistributiva.csproj.AssemblyReference.cache
+C:\Users\copag\source\repos\propriedadeDistributiva\propriedadeDistributiva\obj\Debug\propriedadeDistributiva.csproj.CoreCompileInputs.cache
+C:\Users\copag\source\repos\propriedadeDistributiva\propriedadeDistributiva\obj\Debug\propriedadeDistributiva.exe
+C:\Users\copag\source\repos\propriedadeDistributiva\propriedadeDistributiva\obj\Debug\propriedadeDistributiva.pdb

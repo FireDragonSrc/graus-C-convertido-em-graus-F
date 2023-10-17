@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "propriedadeDistributiva", "propriedadeDistributiva\propriedadeDistributiva.csproj", "{7D179F5A-1F59-47B1-9A88-0F554D550CB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D179F5A-1F59-47B1-9A88-0F554D550CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D179F5A-1F59-47B1-9A88-0F554D550CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D179F5A-1F59-47B1-9A88-0F554D550CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D179F5A-1F59-47B1-9A88-0F554D550CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {597A643D-3FC7-43B0-B3ED-6A8ABEA533A0}
+	EndGlobalSection
+EndGlobal
